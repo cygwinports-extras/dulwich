@@ -1,0 +1,11 @@
+inherit distutils
+
+NAME="python-dulwich"
+VERSION=0.8.7
+RELEASE=1
+CATEGORY="Devel"
+SUMMARY="Python git implementation"
+DESCRIPTION="Dulwich is a pure-Python implementation of the Git file formats
+and protocols."
+HOMEPAGE="http://samba.org/~jelmer/dulwich/"
+SRC_URI="http://samba.org/~jelmer/dulwich/dulwich-${VERSION}.tar.gz"

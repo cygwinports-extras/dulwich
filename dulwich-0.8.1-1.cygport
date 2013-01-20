@@ -1,5 +1,0 @@
-inherit distutils
-
-
-HOMEPAGE="http://samba.org/~jelmer/dulwich/"
-SRC_URI="http://samba.org/~jelmer/dulwich/${P}.tar.gz"
